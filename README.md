@@ -34,9 +34,16 @@ Aspiro a crecer como **Desarrollador Web Junior**, aportando soluciones eficient
 ---
 
 ## 📊 Estadísticas de GitHub
-![](https://github-readme-stats.vercel.app/api?username=EdwinOrtiz1412&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=EdwinOrtiz1412&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinOrtiz1412&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=EdwinOrtiz1412&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats" /><br/><br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=EdwinOrtiz1412&theme=dark&hide_border=false" alt="streak" /><br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinOrtiz1412&theme=dark&hide_border=false&layout=compact" alt="top-langs" />
+
+</div>
+
 
 ---
 
